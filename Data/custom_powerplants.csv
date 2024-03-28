@@ -1,0 +1,70 @@
+,Name,Fueltype,Technology,Set,Country,Capacity,Efficiency,Duration,Volume_Mm3,DamHeight_m,StorageCapacity_MWh,DateIn,DateRetrofit,DateMothball,DateOut,lat,lon,projectID,projectID
+1266,Khmelnitskiy,Nuclear,,PP,UA,2040,,0.0,0.0,0.0,0.0,1988.0,2005.0,,,50.3023,26.6466,[nan],"{'GEO': ['GEO3842'], 'GPD': ['WRI1005111'], 'CARMA': ['CARMA22000']}"
+1428,Rovno rivne,Nuclear,,PP,UA,2880,,0.0,0.0,0.0,0.0,1981.0,2006.0,,,51.3245,25.89744,[nan],"{'GEO': ['GEO5174'], 'GPD': ['WRI1005112'], 'CARMA': ['CARMA38114']}"
+1427,South,Nuclear,,PP,UA,3060,,0.0,0.0,0.0,0.0,1983.0,1989.0,,,47.812,31.22,[nan],"{'GEO': ['GEO5475'], 'GPD': ['WRI1005113'], 'CARMA': ['CARMA42555']}"
+1423,Zaporozhye,Nuclear,,PP,UA,6140,,0.0,0.0,0.0,0.0,1985.0,1996.0,,,47.5119,34.5863,[nan],"{'GEO': ['GEO6207'], 'GPD': ['WRI1005114'], 'CARMA': ['CARMA50875']}"
+,Dniprovska HPP 1,Hydro,Reservoir,PP,UA,638,,0.0,0.0,0.0,0.0,1932.0,2020.0,,,47.8693129,35.0869862,[nan],
+,Dniprovska HPP 2,Hydro,Reservoir,PP,UA,925,,0.0,0.0,0.0,0.0,1974.0,2020.0,,,47.8693129,35.0869862,[nan],
+,Dnistrovska HPP 1,Hydro,Reservoir,PP ,UA,702,,0.0,0.0,0.0,0.0,1981.0,,,,48.5938242,27.4528098,[nan],
+,Dnistrovska HPP 2,Hydro,Reservoir,PP,UA,41,,0.0,0.0,0.0,0.0,1999.0,,,,48.5938242,27.5723322,[nan],
+,Dnistrovska PSH,Hydro,Pumped Storage,Store,UA,1296,,0.0,0.0,0.0,0.0,,,,,48.5157242,27.4743485,[nan],
+1269,Kakhovska HPP,Hydro,Reservoir,PP,UA,318,,0.0,0.0,0.0,0.0,1955.0,2009.0,,,46.77858,33.36965,[nan],"{'GEO': ['GEO43018'], 'GPD': ['WRI1005118'], 'CARMA': ['CARMA20855']}"
+1268,Kanivska HPP,Hydro,Reservoir,PP,UA,493,,0.0,0.0,0.0,0.0,1972.0,2017.0,,,49.76653,31.47165,[nan],"{'GEO': ['GEO43017'], 'GPD': ['WRI1005122'], 'CARMA': ['CARMA21140']}"
+1348,Kremenchutska HPP,Hydro,Reservoir,PP ,UA,645,,,,,,1959.0,2019.0,,,49.07759,33.2505,[nan],"{'GEO': ['GEO43019'], 'GPD': ['WRI1005121'], 'CARMA': ['CARMA23072']}"
+,Kyivska HPP,Hydro,Reservoir,PP,UA,440,,0.0,0.0,0.0,0.0,,,,,50.5998,30.501,"[nan, nan]",
+1430,Kyivska PSH,Hydro,Pumped Storage,Store,UA,241,,0.0,0.0,0.0,0.0,1964.0,1972.0,,,50.5998,30.501,"[nan, nan]","{'GEO': ['GEO43024', 'GEO43023'], 'GPD': ['WRI1005123', 'WRI1005124'], 'CARMA': ['CARMA23516', 'CARMA23517']}"
+,Ladyzhynska HPP,Hydro,Reservoir,PP ,UA,8,,0.0,0.0,0.0,0.0,1964.0,,,,48.706,29.2202,[nan],
+,Seredniodniprovska HPP,Hydro,Reservoir,PP,UA,388,,,,,,,,,,48.5482073,34.5408812,[nan],
+,Tereble-Ritska HPP,Hydro,Reservoir,PP ,UA,27,,0.0,0.0,0.0,0.0,1956.0,,,,48.1113,23.5857,[nan],
+1425,Tashlykska,Hydro,Pumped Storage,Store,UA,302,,0.0,0.0,0.0,0.0,2006.0,2007.0,,,47.7968,31.1811,[nan],"{'GEO': ['GEO43025'], 'GPD': ['WRI1005117'], 'CARMA': ['CARMA44696']}"
+2460,Hydropower che costesti,Hydro,,PP,MD,16.0,,0.0,0.0,0.0,0.0,1978.0,,,,47.8381,27.2246,[nan],"{'GPD': ['WRI1002987'], 'CARMA': ['CARMA9496']}"
+2466,Hydropower dubasari,Hydro,,PP,MD,48.0,,0.0,0.0,0.0,0.0,,,,,47.2778,29.123,[nan],"{'GPD': ['WRI1002988'], 'CARMA': ['CARMA11384']}"
+2707,Burshtynska TPP,Hard Coal,Steam turbine,PP,UA,2366,,0.0,0.0,0.0,0.0,1965.0,2017.0,,,49.21038,24.66654,[nan],"{'GEO': ['GEO42991'], 'GPD': ['WRI1005097']}"
+1410,Dobrotvirska TPP,Hard Coal,Steam turbine,PP,UA,510,,0.0,0.0,0.0,0.0,1960.0,2018.0,,,50.2133,24.375,[nan],"{'GEO': ['GEO42992'], 'GPD': ['WRI1005096'], 'CARMA': ['CARMA10971']}"
+1377,Kryvorizka TPP,Hard Coal,Steam turbine,PP,UA,2079,,0.0,0.0,0.0,0.0,1963.0,2017.0,,,47.5432,33.6583,[nan],"{'GEO': ['GEO42989'], 'GPD': ['WRI1005100'], 'CARMA': ['CARMA23176']}"
+1409,Kurakhivska TPP,Hard Coal,Steam turbine,PP,UA,1290,,0.0,0.0,0.0,0.0,1972.0,2018.0,,,47.9944,37.24022,[nan],"{'GEO': ['GEO42994'], 'GPD': ['WRI1005104'], 'CARMA': ['CARMA23339']}"
+1429,Ladyzhynska TPP,Hard Coal,Steam turbine,PP,UA,1200,,0.0,0.0,0.0,0.0,1970.0,2017.0,,,48.703,29.2178,[nan],"{'GEO': ['GEO42993'], 'GPD': ['WRI1005098'], 'CARMA': ['CARMA24024']}"
+2712,Luganska TPP,Hard Coal,Steam turbine,PP,UA,820,,0.0,0.0,0.0,0.0,1962.0,2017.0,,,48.74781,39.2624,[nan],"{'GEO': ['GEO42996'], 'GPD': ['WRI1005110']}"
+3678,Myronivska TPP,Hard Coal,Steam turbine,PP,UA,115,,0.0,0.0,0.0,0.0,1953.0,2013.0,,,48.3407,38.4049,[nan],"{'GPD': ['WRI1005108'], 'CARMA': ['CARMA28679']}"
+1408,Prydniprovska TPP,Hard Coal,Steam turbine,PP,UA,600,,0.0,0.0,0.0,0.0,1958.0,2016.0,,,48.4051,35.1131,[nan],"{'GEO': ['GEO42990'], 'GPD': ['WRI1005102'], 'CARMA': ['CARMA35874']}"
+2713,Slovyanska TPP,Hard Coal,Steam turbine,PP,UA,800,,0.0,0.0,0.0,0.0,1957.0,,,,48.872,37.76567,[nan],"{'GEO': ['GEO43002'], 'GPD': ['WRI1005109']}"
+1424,Trypilska TPP,Hard Coal,Steam turbine,PP,UA,1225,,0.0,0.0,0.0,0.0,1969.0,,,,50.1344,30.7468,[nan],"{'GEO': ['GEO43000'], 'GPD': ['WRI1005099'], 'CARMA': ['CARMA46410']}"
+,Trypilska ,Natural Gas,Steam turbine,PP,UA,600,,0.0,0.0,0.0,0.0,1971.0,,,,50.1344,30.7468,[nan],"{'GEO': ['GEO43000'], 'GPD': ['WRI1005099'], 'CARMA': ['CARMA46410']}"
+2714,Vuhlehirska TPP,Hard Coal,Steam turbine,PP,UA,1200,,0.0,0.0,0.0,0.0,1972.0,,,,48.4633,38.20328,[nan],"{'GEO': ['GEO43001'], 'GPD': ['WRI1005107']}"
+2715,Zaporizka TPP,Hard Coal,Steam turbine,PP,UA,1250,,0.0,0.0,0.0,0.0,1972.0,2016.0,,,47.5089,34.6253,[nan],"{'GEO': ['GEO42988'], 'GPD': ['WRI1005101']}"
+1407,Zmiyivska TPP,Hard Coal,Steam turbine,PP,UA,1980,,0.0,0.0,0.0,0.0,1960.0,,,,49.5852,36.5231,[nan],"{'GEO': ['GEO42999'], 'GPD': ['WRI1005103'], 'CARMA': ['CARMA51042']}"
+2465,Moldavskaya gres,Hard Coal,,PP,MD,2520.0,,0.0,0.0,0.0,0.0,,,,,46.6292,29.9407,[nan],"{'GPD': ['WRI1002989'], 'CARMA': ['CARMA28979']}"
+,Cherkaska CHP,Hard Coal,Steam turbine,CHP,UA,50,,0.0,0.0,0.0,0.0,1961.0,,,,49.3861,32.0615,[nan],
+3680,Chernihivska CHP,Hard Coal,Steam turbine,CHP,UA,210,,0.0,0.0,0.0,0.0,1964.0,2004.0,,,51.455,31.2602,[nan],"{'GPD': ['WRI1075853'], 'CARMA': ['CARMA8190']}"
+,Darnitska CHP,Hard Coal,Steam turbine,CHP,UA,160,,0.0,0.0,0.0,0.0,1964.0,,,,50.4154,30.6936,[nan],
+,Dniprovska CHP,Hard Coal,Steam turbine,CHP,UA,31,,0.0,0.0,0.0,0.0,1932.0,,,,48.52884,34.60465,[nan],
+,Eskhar-2 CHP,Hard Coal,Steam turbine,CHP,UA,124,,0.0,0.0,0.0,0.0,1956.0,,,,49.795,36.592,[nan],
+,Kalushska CHP,Hard Coal,Steam turbine,CHP,UA,100,,0.0,0.0,0.0,0.0,1967.0,,,,49.0414,24.3950,[nan],
+,Kharkhivska CHP-3,Hard Coal,Steam turbine,CHP,UA,74,,0.0,0.0,0.0,0.0,1990.0,,,,49.970371,36.107159,[nan],
+3679,Kramatorska CHP,Hard Coal,Steam turbine,CHP,UA,120,,0.0,0.0,0.0,0.0,,,,,48.7477,37.5723,[nan],"{'GPD': ['WRI1075856'], 'CARMA': ['CARMA54560']}"
+,Sumska CHP,Hard Coal,Steam turbine,CHP,UA,40,,0.0,0.0,0.0,0.0,,,,,50.932,34.818,[nan],
+,Bilotserkivska CHP,Natural Gas,Steam turbine,CHP,UA,120,,0.0,0.0,0.0,0.0,1971.0,,,,49.796,30.183,[nan],
+,Drogobych CHP,Natural Gas,Steam turbine,CHP,UA,17,,0.0,0.0,0.0,0.0,1941.0,,,,49.35,23.49,[nan],
+,Kalushska CHP 2,Natural Gas,Steam turbine,CHP,UA,100,,0.0,0.0,0.0,0.0,1967.0,,,,49.07,24.318,[nan],
+,Kamyanets-podilsky,Natural Gas,Steam turbine,CHP,UA,14,,0.0,0.0,0.0,0.0,,,,,48.6967,26.5825,[nan],
+,Kharkivska CHP-5,Natural Gas,Steam turbine,CHP,UA,485,,0.0,0.0,0.0,0.0,1979.0,,,,49.9719,36.107,[nan],"{'GEO': ['GEO43027'], 'GPD': ['WRI1005126'], 'CARMA': ['CARMA21972']}"
+,Khersonska CHP,Natural Gas,Steam turbine,CHP,UA,80,,0.0,0.0,0.0,0.0,1957.0,1991.0,,,46.6746,32.6496,[nan],
+,Kirovogradska CHP,Natural Gas,Steam turbine,CHP,UA,15,,0.0,0.0,0.0,0.0,1978.0,,,,48.516,32.3066,[nan],
+,Kremenchutska CHP,Natural Gas,Steam turbine,CHP,UA,250,,0.0,0.0,0.0,0.0,1965.0,,,,49.170,33.447,[nan],
+,Kyivska CHP 5,Natural Gas,Steam turbine,CHP,UA,725,,0.0,0.0,0.0,0.0,1971.0,2014.0,,,50.393,30.569,[nan],
+,Kyivska CHP 6,Natural Gas,Steam turbine,CHP,UA,500,,0.0,0.0,0.0,0.0,1982.0,2016.0,,,50.531,30.662,[nan],
+,Lvivska CHP 1,Natural Gas,Steam turbine,CHP,UA,60,,0.0,0.0,0.0,0.0,,,,,49.81329,24.02908,[nan],
+,Mykolaivska CHP,Natural Gas,Steam turbine,CHP,UA,40,,0.0,0.0,0.0,0.0,,,,,46.94968,31.98705,[nan],
+,n/a,Natural Gas,Steam turbine,CHP,UA,16,,0.0,0.0,0.0,0.0,,,,,,,,
+,Novorozdilska CHP,Natural Gas,Steam turbine,CHP,UA,36,,0.0,0.0,0.0,0.0,,,,,49.45980,24.12248,[nan],
+,Novoyavorivska CHP,Natural Gas,Steam turbine,CHP,UA,26,,0.0,0.0,0.0,0.0,,,,,49.93093,23.58108,[nan],
+,Odeska CHP,Natural Gas,Steam turbine,CHP,UA,68,,0.0,0.0,0.0,0.0,,,,,46.5031,30.714,[nan],
+,Okhtyrska CHP,Natural Gas,Steam turbine,CHP,UA,12,,0.0,0.0,0.0,0.0,,,,,50.31678,34.87610,[nan],
+,Severodonetska CHP,Natural Gas,Steam turbine,CHP,UA,260,,0.0,0.0,0.0,0.0,,,,,48.937,38.453,[nan],
+,Shostkynska CHP,Natural Gas,Steam turbine,CHP,UA,110,,0.0,0.0,0.0,0.0,,,,,51.882,33.46,[nan],
+,Svitlovodska CHP,Natural Gas,Steam turbine,CHP,UA,2,,0.0,0.0,0.0,0.0,,,,,49.05,33.2413703,[nan],
+,Vinnitsya CHP-1,Natural Gas,Steam turbine,CHP,UA,10,,0.0,0.0,0.0,0.0,,,,,49.6673,28.444,[nan],
+,Vinnitsya co-gen,Natural Gas,Steam turbine,CHP,UA,10,,0.0,0.0,0.0,0.0,,,,,49.6673,28.444,[nan],
+,Block CHP,Natural Gas,Steam turbine,CHP,UA,997,,0.0,0.0,0.0,0.0,,,,,,,,
+2450,Cet chisinau,Natural Gas,,PP,MD,306.0,,0.0,0.0,0.0,0.0,,,,,47.027550000000000,28.8801,"[nan, nan]","{'GPD': ['WRI1002985', 'WRI1002984'], 'CARMA': ['CARMA8450', 'CARMA8451']}"
+2676,Cet nord balti,Natural Gas,,PP,MD,24.0,,0.0,0.0,0.0,0.0,,,,,47.7492,27.8938,[nan],"{'GPD': ['WRI1002986'], 'CARMA': ['CARMA3071']}"

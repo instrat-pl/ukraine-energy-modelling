@@ -25,3 +25,14 @@ and then using the `git submodule` command:
 The new commits of the submodule can be fetched and updated using the command:
 
     git submodule update --remote
+
+## Input Data
+
+The latest updated conventional powerplant data is provided as an input to the PyPSA-Eur model. This file needs to be copied from 
+    
+    Data/custom_powerplants.csv 
+
+into the PyPSA-Eur model at the following location 
+    
+    workflow/pypsa-eur/Data/custom_powerplants.csv
+    
